@@ -10,7 +10,7 @@
 ---
 
 ### About
-Cool Free Script for people so they can have fun! Asymptote is a Deepwoken script.
+Cool Free Script for people so they can have fun!
 
 ### Supported execs
 * **macsploit**
