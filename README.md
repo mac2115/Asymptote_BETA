@@ -10,7 +10,9 @@
 ---
 
 ### About
-Cool Free Script for people so they can have fun!
+Cool Free Script for people so they can have fun! Asymptote is a Deepwoken script. 
+
+**Disclaimer:** This script is currently still in beta, so expect some bugs or things being actively worked on.
 
 ### Supported execs
 * **macsploit**
@@ -18,7 +20,7 @@ Cool Free Script for people so they can have fun!
 * **anything with error redirection**
 
 ### Credits
-Credits to the Lycoris developers for some of the timings I took from their timing list.
+Credits to the Lycoris developers for some of the timings I took from their timing list because I was too lazy to grab them myself.
 
 ### Contact
 You can find me on discord: **mac0014**
